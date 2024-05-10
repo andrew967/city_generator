@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ## Usage
 To start generating your city layouts, run the main script from the command line:
 ```
-  python city_generator.py
+  python main.py
 ```
